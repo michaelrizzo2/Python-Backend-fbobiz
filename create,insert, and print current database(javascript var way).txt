@@ -1,0 +1,21 @@
+> use myemployee
+switched to db myemployee
+> var employees=[{id:1,name"smith"},{id:2,name:"Mohan"},{id:3,name:"Joe"}]
+2017-12-05T13:05:31.331-0500 E QUERY    [thread1] SyntaxError: missing : after property id @(shell):1:25
+> var employees=[{id:1,name:"smith"},{id:2,name:"Mohan"},{id:3,name:"Joe"}]
+> db.myemployee.insert(employees)
+BulkWriteResult({
+        "writeErrors" : [ ],
+        "writeConcernErrors" : [ ],
+        "nInserted" : 3,
+        "nUpserted" : 0,
+        "nMatched" : 0,
+        "nModified" : 0,
+        "nRemoved" : 0,
+        "upserted" : [ ]
+})
+> db.myemployee.find().forEach(printjson)
+{ "_id" : ObjectId("5a26e012ace8463d2430f57e"), "id" : 1, "name" : "smith" }
+{ "_id" : ObjectId("5a26e012ace8463d2430f57f"), "id" : 2, "name" : "Mohan" }
+{ "_id" : ObjectId("5a26e012ace8463d2430f580"), "id" : 3, "name" : "Joe" }
+
