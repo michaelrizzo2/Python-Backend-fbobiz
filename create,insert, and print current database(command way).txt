@@ -1,0 +1,40 @@
+#Create and switch to database
+> use Employee
+switched to db Employee
+#Insert entry into database
+> db.Employee.insert({id:1001,name:"MIchael Rizzo});
+2017-12-05T10:39:47.551-0500 E QUERY    [thread1] SyntaxError: unterminated string literal @(shell):1:33
+> db.Employee.insert({id:1001,name:"MIchael Rizzo"});
+WriteResult({ "nInserted" : 1 })
+> db.Employee
+Employee.Employee
+> print(Employee)
+2017-12-05T10:41:36.839-0500 E QUERY    [thread1] ReferenceError: Employee is not defined :
+@(shell):1:1
+> print(db.Employee)
+Employee.Employee
+#print Employee database in json notation(basically a list of keys and values for each entry)
+> db.Employee.find().forEach(printjson)
+{
+        "_id" : ObjectId("5a26bdc9f4401b730906fd6d"),
+        "id" : 1001,
+        "name" : "MIchael Rizzo"
+}
+> db.Employee.insert({id:1002,name:"Martha Rizzo");
+... ^C
+#Insert entry into database
+> db.Employee.insert({id:1002,name:"Martha Rizzo"});
+WriteResult({ "nInserted" : 1 })
+#print Employee database in json notation(basically a list of keys and values for each entry)
+> db.Employee.find().forEach(printjson)
+{
+        "_id" : ObjectId("5a26bdc9f4401b730906fd6d"),
+        "id" : 1001,
+        "name" : "MIchael Rizzo"
+}
+{
+        "_id" : ObjectId("5a26bf42f4401b730906fd6e"),
+        "id" : 1002,
+        "name" : "Martha Rizzo"
+}
+
