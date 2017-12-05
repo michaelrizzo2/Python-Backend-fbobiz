@@ -5,3 +5,7 @@ import numpy
 numpy.random.seed(7)
 #Load the dataset for the pima indians
 data_set=numpy.loadtxt("pima-indians-diabetes.csv",delimiter=",")
+#split the dataset into x and y variables
+x=data_set[:,0:8]
+y=data_set[:,8]
+
