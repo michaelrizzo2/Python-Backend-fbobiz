@@ -1,0 +1,202 @@
+<a href="#content" title="Skip to content">Skip to content</a>
+<a aria-hidden="true" class="jump-link" href="#python-network" id="close-python-network">
+<span aria-hidden="true" class="icon-arrow-down"><span>▼</span></span> Close
+                </a>
+<a class="current_item selectedcurrent_branch selected" href="/" title="The Python Programming Language">Python</a>
+<a href="/psf-landing/" title="The Python Software Foundation">PSF</a>
+<a href="https://docs.python.org" title="Python Documentation">Docs</a>
+<a href="https://pypi.python.org/" title="Python Package Index">PyPI</a>
+<a href="/jobs/" title="Python Job Board">Jobs</a>
+<a href="/community/" title="Python Community">Community</a>
+<a aria-hidden="true" class="jump-link" href="#top" id="python-network">
+<span aria-hidden="true" class="icon-arrow-up"><span>▲</span></span> The Python Network
+                </a>
+<a href="/"><img alt="python™" class="python-logo" src="/static/img/python-logo.png"/></a>
+<a class="jump-to-menu" href="#site-map" id="site-map-link"><span class="menu-icon">≡</span> Menu</a>
+<a class="action-trigger" href="#"><strong><small>A</small> A</strong></a>
+<a class="text-shrink" href="javascript:;" title="Make Text Smaller">Smaller</a>
+<a class="text-grow" href="javascript:;" title="Make Text Larger">Larger</a>
+<a class="text-reset" href="javascript:;" title="Reset any font size changes I have made">Reset</a>
+<a class="action-trigger" href="#">Socialize</a>
+<a href="http://plus.google.com/+Python"><span aria-hidden="true" class="icon-google-plus"></span>Google+</a>
+<a href="http://www.facebook.com/pythonlang?fref=ts"><span aria-hidden="true" class="icon-facebook"></span>Facebook</a>
+<a href="http://twitter.com/ThePSF"><span aria-hidden="true" class="icon-twitter"></span>Twitter</a>
+<a href="/community/irc/"><span aria-hidden="true" class="icon-freenode"></span>Chat on IRC</a>
+<a href="/accounts/login/" title="Sign Up or Sign In to Python.org">Sign In</a>
+<a href="/accounts/signup/">Sign Up / Register</a>
+<a href="/accounts/login/">Sign In</a>
+<a class="" href="/about/" title="">About</a>
+<a href="/about/apps/" title="">Applications</a>
+<a href="/about/quotes/" title="">Quotes</a>
+<a href="/about/gettingstarted/" title="">Getting Started</a>
+<a href="/about/help/" title="">Help</a>
+<a href="http://brochure.getpython.info/" title="">Python Brochure</a>
+<a class="" href="/downloads/" title="">Downloads</a>
+<a href="/downloads/" title="">All releases</a>
+<a href="/downloads/source/" title="">Source code</a>
+<a href="/downloads/windows/" title="">Windows</a>
+<a href="/downloads/mac-osx/" title="">Mac OS X</a>
+<a href="/download/other/" title="">Other Platforms</a>
+<a href="https://docs.python.org/3/license.html" title="">License</a>
+<a href="/download/alternatives" title="">Alternative Implementations</a>
+<a class="" href="/doc/" title="">Documentation</a>
+<a href="/doc/" title="">Docs</a>
+<a href="/doc/av" title="">Audio/Visual Talks</a>
+<a href="https://wiki.python.org/moin/BeginnersGuide" title="">Beginner's Guide</a>
+<a href="https://docs.python.org/devguide/" title="">Developer's Guide</a>
+<a href="https://docs.python.org/faq/" title="">FAQ</a>
+<a href="http://wiki.python.org/moin/Languages" title="">Non-English Docs</a>
+<a href="http://python.org/dev/peps/" title="">PEP Index</a>
+<a href="https://wiki.python.org/moin/PythonBooks" title="">Python Books</a>
+<a class="" href="/community/" title="">Community</a>
+<a href="/community/diversity/" title="">Diversity</a>
+<a href="/community/irc/" title="">IRC</a>
+<a href="/community/lists/" title="">Mailing Lists</a>
+<a href="/community/workshops/" title="">Python Conferences</a>
+<a href="/community/sigs/" title="">Special Interest Groups</a>
+<a href="https://wiki.python.org/moin/" title="">Python Wiki</a>
+<a href="/community/logos/" title="">Python Logo</a>
+<a href="/community/merchandise/" title="">Merchandise</a>
+<a href="/community/awards" title="">Community Awards</a>
+<a class="" href="/about/success/" title="success-stories">Success Stories</a>
+<a href="/about/success/#arts" title="">Arts</a>
+<a href="/about/success/#business" title="">Business</a>
+<a href="/about/success/#education" title="">Education</a>
+<a href="/about/success/#engineering" title="">Engineering</a>
+<a href="/about/success/#government" title="">Government</a>
+<a href="/about/success/#scientific" title="">Scientific</a>
+<a href="/about/success/#software-development" title="">Software Development</a>
+<a class="" href="/blogs/" title="News from around the Python world">News</a>
+<a href="/blogs/" title="Python Insider Blog Posts">Python News</a>
+<a href="http://planetpython.org/" title="Planet Python">Community News</a>
+<a href="http://pyfound.blogspot.com/" title="PSF Blog">PSF News</a>
+<a href="http://pycon.blogspot.com/" title="PyCon Blog">PyCon News</a>
+<a class="" href="/events/" title="">Events</a>
+<a href="/events/python-events" title="">Python Events</a>
+<a href="/events/python-user-group/" title="">User Group Events</a>
+<a href="/events/python-events/past/" title="">Python Events Archive</a>
+<a href="/events/python-user-group/past/" title="">User Group Events Archive</a>
+<a href="https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event" title="">Submit an Event</a>
+<a class="button prompt" data-shell-container="#dive-into-python" href="/shell/" id="start-shell">&gt;_
+                        <span class="message">Launch Interactive Shell</span>
+</a>
+<a href="//docs.python.org/3/tutorial/controlflow.html#defining-functions">More about defining functions in Python 3</a>
+<a href="//docs.python.org/3/tutorial/introduction.html#lists">More about lists in Python 3</a>
+<a href="http://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator">More about simple math functions in Python 3</a>
+<a href="//docs.python.org/3/tutorial/">Whet your appetite</a>
+<a href="//docs.python.org/3/tutorial/controlflow.html">More control flow tools in Python 3</a>
+<a class="readmore" href="/doc/">Learn More</a>
+<a href="/about/gettingstarted/">Start with our Beginner’s Guide</a>
+<a href="https://wiki.python.org/moin/Python2orPython3">Check here</a>
+<a href="/downloads/release/python-352/">Python 3.5.2</a>
+<a href="/downloads/release/python-2712/">Python 2.7.12</a>
+<a href="https://docs.python.org">docs.python.org</a>
+<a href="//jobs.python.org">jobs.python.org</a>
+<a href="http://blog.python.org" title="More News">More</a>
+<a href="http://feedproxy.google.com/~r/PythonInsider/~3/fAqupGsm4LQ/python-360b2-is-now-available.html">Python 3.6.0b2 is the second of four planned beta releases of ...</a>
+<a href="http://feedproxy.google.com/~r/PythonInsider/~3/ZLTGxjKhYp0/python-core-development-sprint-2016-36.html">From September 5th to the 9th a group of Python ...</a>
+<a href="http://feedproxy.google.com/~r/PythonInsider/~3/6vXS6z9YHg0/python-360-beta-1-is-now-available.html">Python 3.6.0b1 is the first of four planned beta releases of ...</a>
+<a href="http://feedproxy.google.com/~r/PythonInsider/~3/ukG8L0FEq2Q/python-360-alpha-4-preview-release-is.html">Python 3.6.0a4 has been released.  3.6.0a4 is the last of four planned alpha ...</a>
+<a href="http://feedproxy.google.com/~r/PythonInsider/~3/6i6vUY_x_SE/python-360-alpha-3-preview-release-is.html">Python 3.6.0a3 has been released.  3.6.0a3 is the third of four planned alpha ...</a>
+<a href="/events/calendars/" title="More Events">More</a>
+<a href="/events/python-events/443/">PyCon HK 2016</a>
+<a href="/events/python-user-group/472/">PythOnRio Meetup</a>
+<a href="/events/python-events/442/">PyCon Finland 2016</a>
+<a href="/events/python-user-group/468/">Python Coding Project Night</a>
+<a href="/events/python-events/429/">PyCon Ireland 2016</a>
+<a href="/success-stories/" title="More Success Stories">More</a>
+<a href="/success-stories/industrial-light-magic-runs-python/">ILM runs a batch processing environment capable of modeling, rendering and compositing tens of thousands of motion picture frames per day. Thousands of machines running Linux, IRIX, Compaq Tru64, OS X, Solaris, and Windows join together to provide a production pipeline used by ~800 users daily. Speed of development is key, and Python was a faster way to code (and re-code) the programs that control this production pipeline.</a>
+<a href="/success-stories/industrial-light-magic-runs-python/">Industrial Light &amp; Magic Runs on Python</a>
+<a href="/about/apps" title="More Applications">More</a>
+<a class="tag" href="http://www.djangoproject.com/">Django</a>
+<a class="tag" href="http://www.pylonsproject.org/">Pyramid</a>
+<a class="tag" href="http://bottlepy.org">Bottle</a>
+<a class="tag" href="http://tornadoweb.org">Tornado</a>
+<a class="tag" href="http://flask.pocoo.org/">Flask</a>
+<a class="tag" href="http://www.web2py.com/">web2py</a>
+<a class="tag" href="http://www.wxpython.org/">wxPython</a>
+<a class="tag" href="http://wiki.python.org/moin/TkInter">tkInter</a>
+<a class="tag" href="http://www.pygtk.org">PyGtk</a>
+<a class="tag" href="https://wiki.gnome.org/Projects/PyGObject">PyGObject</a>
+<a class="tag" href="http://www.riverbankcomputing.co.uk/software/pyqt/intro">PyQt</a>
+<a class="tag" href="http://www.scipy.org">SciPy</a>
+<a class="tag" href="http://pandas.pydata.org/">Pandas</a>
+<a class="tag" href="http://ipython.org">IPython</a>
+<a class="tag" href="http://buildbot.net/">Buildbot</a>
+<a class="tag" href="http://trac.edgewall.org/">Trac</a>
+<a class="tag" href="http://roundup.sourceforge.net/">Roundup</a>
+<a class="tag" href="http://www.ansible.com">Ansible</a>
+<a class="tag" href="http://www.saltstack.com">Salt</a>
+<a class="tag" href="https://www.openstack.org">OpenStack</a>
+<a href="/dev/peps/">Python Enhancement Proposals<span class="say-no-more"> (PEPs)</span></a>
+<a aria-hidden="true" class="rss-link" href="/dev/peps/peps.rss"><span class="icon-feed"></span> RSS</a>
+<a href="/psf/">Python Software Foundation</a>
+<a class="readmore" href="/psf/">Learn more</a>
+<a class="button" href="/users/membership/">Become a Member</a>
+<a class="button" href="/psf/donations/">Donate to the PSF</a>
+<a class="jump-link" href="#python-network" id="back-to-top-1"><span aria-hidden="true" class="icon-arrow-up"><span>▲</span></span> Back to Top</a>
+<a href="/about/">About</a>
+<a href="/about/apps/" title="">Applications</a>
+<a href="/about/quotes/" title="">Quotes</a>
+<a href="/about/gettingstarted/" title="">Getting Started</a>
+<a href="/about/help/" title="">Help</a>
+<a href="http://brochure.getpython.info/" title="">Python Brochure</a>
+<a href="/downloads/">Downloads</a>
+<a href="/downloads/" title="">All releases</a>
+<a href="/downloads/source/" title="">Source code</a>
+<a href="/downloads/windows/" title="">Windows</a>
+<a href="/downloads/mac-osx/" title="">Mac OS X</a>
+<a href="/download/other/" title="">Other Platforms</a>
+<a href="https://docs.python.org/3/license.html" title="">License</a>
+<a href="/download/alternatives" title="">Alternative Implementations</a>
+<a href="/doc/">Documentation</a>
+<a href="/doc/" title="">Docs</a>
+<a href="/doc/av" title="">Audio/Visual Talks</a>
+<a href="https://wiki.python.org/moin/BeginnersGuide" title="">Beginner's Guide</a>
+<a href="https://docs.python.org/devguide/" title="">Developer's Guide</a>
+<a href="https://docs.python.org/faq/" title="">FAQ</a>
+<a href="http://wiki.python.org/moin/Languages" title="">Non-English Docs</a>
+<a href="http://python.org/dev/peps/" title="">PEP Index</a>
+<a href="https://wiki.python.org/moin/PythonBooks" title="">Python Books</a>
+<a href="/community/">Community</a>
+<a href="/community/diversity/" title="">Diversity</a>
+<a href="/community/irc/" title="">IRC</a>
+<a href="/community/lists/" title="">Mailing Lists</a>
+<a href="/community/workshops/" title="">Python Conferences</a>
+<a href="/community/sigs/" title="">Special Interest Groups</a>
+<a href="https://wiki.python.org/moin/" title="">Python Wiki</a>
+<a href="/community/logos/" title="">Python Logo</a>
+<a href="/community/merchandise/" title="">Merchandise</a>
+<a href="/community/awards" title="">Community Awards</a>
+<a href="/about/success/" title="success-stories">Success Stories</a>
+<a href="/about/success/#arts" title="">Arts</a>
+<a href="/about/success/#business" title="">Business</a>
+<a href="/about/success/#education" title="">Education</a>
+<a href="/about/success/#engineering" title="">Engineering</a>
+<a href="/about/success/#government" title="">Government</a>
+<a href="/about/success/#scientific" title="">Scientific</a>
+<a href="/about/success/#software-development" title="">Software Development</a>
+<a href="/blogs/" title="News from around the Python world">News</a>
+<a href="/blogs/" title="Python Insider Blog Posts">Python News</a>
+<a href="http://planetpython.org/" title="Planet Python">Community News</a>
+<a href="http://pyfound.blogspot.com/" title="PSF Blog">PSF News</a>
+<a href="http://pycon.blogspot.com/" title="PyCon Blog">PyCon News</a>
+<a href="/events/">Events</a>
+<a href="/events/python-events" title="">Python Events</a>
+<a href="/events/python-user-group/" title="">User Group Events</a>
+<a href="/events/python-events/past/" title="">Python Events Archive</a>
+<a href="/events/python-user-group/past/" title="">User Group Events Archive</a>
+<a href="https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event" title="">Submit an Event</a>
+<a href="/dev/">Contributing</a>
+<a href="http://docs.python.org/devguide/" title="">Developer's Guide</a>
+<a href="http://bugs.python.org/" title="">Issue Tracker</a>
+<a href="https://mail.python.org/mailman/listinfo/python-dev" title="">python-dev list</a>
+<a href="/dev/core-mentorship/" title="">Core Mentorship</a>
+<a class="jump-link" href="#python-network" id="back-to-top-2"><span aria-hidden="true" class="icon-arrow-up"><span>▲</span></span> Back to Top</a>
+<a href="/about/help/">Help &amp; <span class="say-no-more">General</span> Contact</a>
+<a href="/community/diversity/">Diversity <span class="say-no-more">Initiatives</span></a>
+<a href="https://github.com/python/pythondotorg/issues">Submit Website Bug</a>
+<a href="https://status.python.org/">Status <span class="python-status-indicator-default" id="python-status-indicator"></span></a>
+<a href="/psf-landing/">Python Software Foundation</a>
+<a href="/about/legal/">Legal Statements</a>
+<a href="/privacy/">Privacy Policy</a>
