@@ -17,3 +17,6 @@ model.add(Dense(1,activation="sigmoid"))
 model.compile(loss="binary_crossentropy",optimizer="adam",metrics=["accuracy"])
 #Now we need to execute the model
 model.fit(x,y,epochs=150,batch_size=10)
+#Now we need to evaluate the model
+scores=model.evaluate(x,y)
+print("\n{0} {1}%" .format(model.metrics_names[1],scores[1]*100))
