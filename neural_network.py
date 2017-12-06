@@ -10,6 +10,10 @@ x=data_set[:,0:8]
 y=data_set[:,8]
 #Now we need to create the model
 model=Sequential()
-model.add(Dense(12,input_dim=8,init="uniform",activation="relu"))
+model.add(Dense(12,input_dim=8,kernel_initializer="uniform",activation="relu"))
 model.add(Dense(8,activation="relu"))
 model.add(Dense(1,activation="sigmoid"))
+#Now we need to compile the model
+model.compile(loss="binary_crossentropy",optimizer="adam",metrics=["accuracy"])
+#Now we need to execute the model
+model.fit(x,y,epochs=150,batch_size=10)
