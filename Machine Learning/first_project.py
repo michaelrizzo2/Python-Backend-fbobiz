@@ -12,3 +12,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 from sklearn.naive_bayes import GaussianNB
 from sklearn.svm import SVC
+#Now we need to load all of the data
+url="https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"
+names=["sepal-length","sepal-width","petal-length","petal-witdh","class"]
+dataset=pandas.read_csv(url,names=names)
