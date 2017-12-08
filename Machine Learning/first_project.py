@@ -16,3 +16,5 @@ from sklearn.svm import SVC
 url="https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"
 names=["sepal-length","sepal-width","petal-length","petal-witdh","class"]
 dataset=pandas.read_csv(url,names=names)
+#Now we need to get the dimension of the dataset
+#print(dataset.shape)
