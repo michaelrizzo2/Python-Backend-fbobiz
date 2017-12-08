@@ -1,0 +1,5 @@
+The number of instances in each class is class
+Iris-setosa        50
+Iris-versicolor    50
+Iris-virginica     50
+dtype: int64
