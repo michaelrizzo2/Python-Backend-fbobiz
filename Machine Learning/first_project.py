@@ -18,3 +18,7 @@ names=["sepal-length","sepal-width","petal-length","petal-witdh","class"]
 dataset=pandas.read_csv(url,names=names)
 #Now we need to get the dimension of the dataset
 #print(dataset.shape)
+################################################
+#Now we need to look at the first 20 rows of data
+#print(dataset.head(20))
+
