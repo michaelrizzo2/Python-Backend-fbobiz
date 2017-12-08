@@ -21,4 +21,5 @@ dataset=pandas.read_csv(url,names=names)
 ################################################
 #Now we need to look at the first 20 rows of data
 #print(dataset.head(20))
-
+#Now we need to get the statistica summary of the data
+#print(dataset.describe())
