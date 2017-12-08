@@ -23,3 +23,5 @@ dataset=pandas.read_csv(url,names=names)
 #print(dataset.head(20))
 #Now we need to get the statistica summary of the data
 #print(dataset.describe())
+#Now we need to find the number of instances that belong to each class
+#print("The number of instances in each class is {0}".format(dataset.groupby("class").size()))
