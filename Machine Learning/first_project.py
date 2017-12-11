@@ -39,4 +39,9 @@ dataset=pandas.read_csv(url,names=names)
 #now we need to create the model(1.create the validation dataset)
 #Splitting out validation dataset
 my_array=dataset.values
-print(my_array)
+#print(my_array)
+#Splitting the data into the x and the y values
+X=my_array[:,0:4]
+Y=my_array[:,4]
+print( "X array is {0}".format(X))
+print( "Y array is {0}".format(Y))
