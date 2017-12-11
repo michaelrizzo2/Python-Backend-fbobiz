@@ -43,7 +43,11 @@ my_array=dataset.values
 #Splitting the data into the x and the y values
 X=my_array[:,0:4]
 Y=my_array[:,4]
+#print("X is {0} and Y iz {1}".format(X,Y))
 #Now we need to set the validation size and the seed  for preparing the models
 validation_size=.2
 seed=7
 #We will use 20 percent of our data  for validation
+#Next we need to get the training and the validation data
+X_train, X_validation, Y_train, Y_validation = model_selection.train_test_split(X, Y, test_size=validation_size, random_state=seed)
+print(X_train, X_validation, Y_train, Y_validation)
