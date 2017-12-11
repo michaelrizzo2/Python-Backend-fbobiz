@@ -43,7 +43,7 @@ my_array=dataset.values
 #Splitting the data into the x and the y values
 X=my_array[:,0:4]
 Y=my_array[:,4]
-#Now we need to set the validation size and the seed  for preparing the omdels
+#Now we need to set the validation size and the seed  for preparing the models
 validation_size=.2
 seed=7
 #We will use 20 percent of our data  for validation
