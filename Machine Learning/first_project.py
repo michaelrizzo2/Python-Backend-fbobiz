@@ -26,3 +26,6 @@ dataset=pandas.read_csv(url,names=names)
 #Now we need to find the number of instances that belong to each class
 #print("The number of instances in each class is {0}".format(dataset.groupby("class").size()))
 #Now we need to visualize the data
+#We will generate a box and whisker plot
+dataset.plot(kind="box",subplots=True,layout=(2,2),sharex=False,sharey=False)
+plt.show()
