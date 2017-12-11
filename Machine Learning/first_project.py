@@ -28,4 +28,7 @@ dataset=pandas.read_csv(url,names=names)
 #Now we need to visualize the data
 #We will generate a box and whisker plot
 dataset.plot(kind="box",subplots=True,layout=(2,2),sharex=False,sharey=False)
+#plt.show()
+#Now we need to create a histogram of each input variable to see what we get
+dataset.hist()
 plt.show()
