@@ -1,6 +1,6 @@
 #First we need to load all of the libraries
 import pandas
-from pandas.tools.plotting import scatter_matrix
+from pandas.plotting import scatter_matrix
 import matplotlib.pyplot as plt
 from sklearn import model_selection
 from sklearn.metrics import classification_report
@@ -21,14 +21,20 @@ dataset=pandas.read_csv(url,names=names)
 ################################################
 #Now we need to look at the first 20 rows of data
 #print(dataset.head(20))
-#Now we need to get the statistica summary of the data
+#Now we need to get the statistical summary of the data
 #print(dataset.describe())
 #Now we need to find the number of instances that belong to each class
 #print("The number of instances in each class is {0}".format(dataset.groupby("class").size()))
 #Now we need to visualize the data
 #We will generate a box and whisker plot
-dataset.plot(kind="box",subplots=True,layout=(2,2),sharex=False,sharey=False)
+#dataset.plot(kind="box",subplots=True,layout=(2,2),sharex=False,sharey=False)
 #plt.show()
 #Now we need to create a histogram of each input variable to see what we get
-dataset.hist()
+#dataset.hist()
+#plt.show()
+#Now we need to look at the interactions between the variables
+scatter_matrix(dataset)
 plt.show()
+#Most of the interaction with the variables has a predfictable correlation
+#now we need to create the model(1.create the validation dataset)
+
