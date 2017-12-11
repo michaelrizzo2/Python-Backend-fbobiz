@@ -33,8 +33,10 @@ dataset=pandas.read_csv(url,names=names)
 #dataset.hist()
 #plt.show()
 #Now we need to look at the interactions between the variables
-scatter_matrix(dataset)
-plt.show()
+#scatter_matrix(dataset)
+#plt.show()
 #Most of the interaction with the variables has a predfictable correlation
 #now we need to create the model(1.create the validation dataset)
-
+#Splitting out validation dataset
+my_array=dataset.values
+print(my_array)
