@@ -50,4 +50,4 @@ seed=7
 #We will use 20 percent of our data  for validation
 #Next we need to get the training and the validation data
 X_train, X_validation, Y_train, Y_validation = model_selection.train_test_split(X, Y, test_size=validation_size, random_state=seed)
-print(X_train, X_validation, Y_train, Y_validation)
+#print(X_train, X_validation, Y_train, Y_validation)
